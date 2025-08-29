@@ -1,0 +1,24 @@
+/* Dark theme variables */
+:root {
+  --bg: #0f1117;
+  --text: #e5e7eb;
+  --primary: #60a5fa;
+  --accent: #906bf7;
+  --code-bg: #1a1c23;
+  --code-text: #f8f8f8;
+}
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  font-family: "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
