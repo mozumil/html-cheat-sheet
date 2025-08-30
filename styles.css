@@ -22,3 +22,25 @@ body {
   color: var(--text);
   line-height: 1.6;
 }
+
+/* Sidebar */
+.sidebar {
+  width: 240px;
+  background: #111827;
+  color: white;
+  min-height: 100vh;
+  padding: 24px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* ✅ Sidebar starts from the top */
+}
+
+.sidebar h2 {
+  margin-bottom: 20px;
+  color: var(--accent);
+}
+
+.sidebar ul {
+  list-style: none;
+}
