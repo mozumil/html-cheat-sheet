@@ -44,3 +44,17 @@ body {
 .sidebar ul {
   list-style: none;
 }
+
+.sidebar ul li {
+  margin: 12px 0;
+}
+
+.sidebar a {
+  color: #d1d5db;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.sidebar a:hover {
+  color: var(--accent);
+}
