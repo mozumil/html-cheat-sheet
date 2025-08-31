@@ -39,3 +39,48 @@ This project is a handy and beautiful reference for essential HTML elements, tag
 
 ---
 
+## 🖼️ Preview
+
+![Preview Screenshot](preview.png)
+<sup>If you haven't already, add a screenshot named <b>preview.png</b> to your repository to display the preview here.</sup>
+
+---
+
+## ⚡ Getting Started
+
+1. **Clone this repository:**
+    ```bash
+    git clone https://github.com/mozumil/html-cheat-sheet.git
+    cd html-cheat-sheet
+    ```
+
+2. **Open `index.html` in your browser:**
+    - No dependencies required!
+    - The design is fully static and runs anywhere.
+
+3. **Customize:**
+    - Edit `index.html` to add or change topics.
+    - Adjust `styles.css` for colors, spacing, and more.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **[View Live Demo](https://mozumil.github.io/html-cheat-sheet/)**
+
+---
+
+## 🙋‍♂️ Author
+
+**Muzammil Mirza**  
+🐦 [@hiMuzammil](https://x.com/hiMuzammil)  
+💻 [github.com/mozumil](https://github.com/mozumil)  
+
+---
+
+## 📜 License
+
+This project is licensed under the **Apache License 2.0**.  
+See [LICENSE](LICENSE) for details.
+
+---
