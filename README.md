@@ -41,8 +41,8 @@ This project is a handy and beautiful reference for essential HTML elements, tag
 
 ## 🖼️ Preview
 
-![Preview Screenshot](preview.png)
-<sup>If you haven't already, add a screenshot named <b>preview.png</b> to your repository to display the preview here.</sup>
+![Preview Screenshot](html-cheat-sheet.png)
+
 
 ---
 
