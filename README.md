@@ -1,3 +1,5 @@
+<!-- HTML, CSS, Cheat Sheet, Beginner, Reference, Web Development, Responsive, Dark Mode, Open Source -->
+
 # 📝 HTML Cheat Sheet by Muzammil Mirza
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,6 +19,7 @@ A visually modern, beginner-friendly **HTML Cheat Sheet** built with **HTML** an
 - [🖼️ Preview](#-preview)
 - [⚡ Getting Started](#-getting-started)
 - [🌐 Live Demo](#-live-demo)
+- [🤝 Contributing](#-contributing)
 - [🙋‍♂️ Author](#-author)
 - [📜 License](#-license)
 
@@ -43,7 +46,6 @@ This project is a handy and beautiful reference for essential HTML elements, tag
 
 ![Preview Screenshot](html-cheat-sheet.png)
 
-
 ---
 
 ## ⚡ Getting Started
@@ -67,6 +69,13 @@ This project is a handy and beautiful reference for essential HTML elements, tag
 ## 🌐 Live Demo
 
 🔗 **[View Live Demo](https://mozumil.github.io/html-cheat-sheet/)**
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and translations are welcome!  
+Feel free to open an issue or pull request to improve this cheat sheet.
 
 ---
 
