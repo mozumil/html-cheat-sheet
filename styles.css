@@ -58,3 +58,117 @@ body {
 .sidebar a:hover {
   color: var(--accent);
 }
+
+/* Credentials in sidebar */
+.credentials {
+  margin-top: auto; /* ✅ Moves credentials to the bottom */
+  padding-top: 1rem;
+  border-top: 1px solid #374151;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.credentials .cred-name {
+  font-weight: bold;
+  font-size: 15px;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.credentials a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.credentials a:hover {
+  text-decoration: underline;
+}
+
+/* Tables */
+.demo-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+  background: #1f2937;
+  color: var(--text);
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.demo-table th,
+.demo-table td {
+  padding: 10px 14px;
+  border: 1px solid #374151;
+  text-align: left;
+}
+
+.demo-table th {
+  background: #111827;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.demo-table tr:nth-child(even) {
+  background: #2d3748;
+}
+
+/* Main Content */
+.content {
+  margin-left: 260px;
+  padding: 40px;
+  max-width: 900px;
+}
+
+/* Header */
+.page-header {
+  margin-bottom: 30px;
+}
+
+.page-header h1 {
+  font-size: 2.4rem;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.page-header p {
+  font-size: 1rem;
+  color: #9ca3af;
+}
+
+/* Sections */
+section {
+  margin: 40px 0;
+}
+
+section h2 {
+  margin-bottom: 10px;
+  color: var(--primary);
+}
+
+p {
+  margin-bottom: 12px;
+  color: var(--text);
+}
+
+/* Code Blocks */
+pre {
+  background: var(--code-bg);
+  color: var(--code-text);
+  padding: 14px;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* Footer */
+.footer {
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 1px solid #374151;
+  text-align: center;
+  font-size: 13px;
+  color: #9ca3af;
+}
